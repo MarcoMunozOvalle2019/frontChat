@@ -41,5 +41,5 @@
     "postcss": "^8.4.14",
     "tailwindcss": "^3.1.3"
   },
-  "proxy": "http://localhost:3001"
+  "proxy": "https://nicoback.onrender.com/"
 }
